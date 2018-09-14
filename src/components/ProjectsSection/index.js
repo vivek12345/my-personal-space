@@ -4,7 +4,7 @@ import ExperienceUnit from '../ExperienceUnit'
 
 import logiqidDesign from '../../assets/images/projects/logiqids.png'
 import reactExpress from '../../assets/images/projects/react-express.png'
-import petZoned from '../../assets/images/projects/petZoned.jpg'
+import petZoned from '../../assets/images/projects/petzoned.jpg'
 import reactNative from '../../assets/images/projects/reactNative.jpeg'
 
 class ProjectsSection extends React.Component {
