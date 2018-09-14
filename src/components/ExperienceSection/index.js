@@ -3,7 +3,7 @@ import Section from '../Section'
 import ExperienceUnit from '../ExperienceUnit'
 
 import trustingSocialLogo from '../../assets/images/experience/trustingSocial.jpeg'
-import hotstarLogo from '../../assets/images/experience/hotstar.svg'
+import hotstarLogo from '../../assets/images/experience/Hotstar.svg'
 import craftsvillaLogo from '../../assets/images/experience/craftsvilla.png'
 import housingLogo from '../../assets/images/experience/housing.png'
 import ivpLogo from '../../assets/images/experience/ivp.jpg'
