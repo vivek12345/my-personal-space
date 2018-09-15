@@ -2,6 +2,7 @@ import React from 'react'
 import ExperienceSection from '../components/ExperienceSection'
 import ProjectsSection from '../components/ProjectsSection'
 import PublicationSection from '../components/PublicationSection'
+import CoursesSection from '../components/CoursesSection'
 import About from '../components/Sidebar/About'
 import Links from '../components/Sidebar/Links'
 
@@ -22,6 +23,7 @@ const IndexPage = () => (
         <ExperienceSection />
         <PublicationSection />
         <ProjectsSection />
+        <CoursesSection />
       </div>
 
       <div className="aside">
