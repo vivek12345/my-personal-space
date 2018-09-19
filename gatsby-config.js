@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "<your-tracking-id-here>",
+        trackingId: "UA-126098691-1",
         head: true
       }
     },
@@ -21,6 +21,6 @@ module.exports = {
     title: 'Vivek Nayyar',
     description: 'Full stack web developer',
     keywords: 'full stack, web enginner, portfolio, personal website',
-    url: 'https://www.viveknayyar.com'
+    url: 'https://www.viveknayyar.in'
   }
 };

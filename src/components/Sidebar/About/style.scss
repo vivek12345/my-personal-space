@@ -41,6 +41,9 @@ $margin-bottom: 40px;
         font-size: 2.2rem;
       }
     }
+    a {
+      color: $grey-color-light;
+    }
   }
 
   @include media('>small', '<=medium') {

@@ -12,6 +12,7 @@ class About extends Component {
           <p>👋 My name is Vivek Nayyar</p>
           <p>💻 I work as an UI Engineer with Trusting Social</p>
           <p>📢 Follow me @viveknayyar09</p>
+          <p>📝 <a href="https://www.dropbox.com/s/cqthva2qulr8l94/VivekNayyarResume2018.pdf?dl=0">Download Resume</a></p>
           <div className="emoji">
             🤖 &nbsp;✈️&nbsp;🔈&nbsp; ⚽️
           </div>
