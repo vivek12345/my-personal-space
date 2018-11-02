@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <br>
   <a href="https://viveknayyar.in">
     <img src="./src/assets/illustrations/personal.svg" alt="personal-website" width="100">
@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-## 📦 About me
+## About me
 
 <h1>
 <img src="./src/assets/illustrations/social.svg" alt="personal-website" width="150">
@@ -16,10 +16,10 @@
 
 </h1>
 
-<h3>Front-End Engineer with 4 year's of experience building products for numerous domain's like e-commerce, real estate, video-streaming and now Fin-Tech.</h3>
+<p>Front-End Engineer with 4 year's of experience building products for numerous domain's like e-commerce, real estate, video-streaming and now Fin-Tech.</p>
 <a href="https://www.dropbox.com/s/cqthva2qulr8l94/VivekNayyarResume2018.pdf?dl=1">Download Resume</a>
 
-## 📦 Social Media Links
+## Social Media Links
 
 <h1>
 <img src="./src/assets/illustrations/social_media.svg" alt="personal-website" width="150">
@@ -30,7 +30,7 @@
 - <a href="https://medium.com/@VivekNayyar/">Medium</a>
 - <a href="https://www.linkedin.com/in/viveknayyar/">Linked In</a>
 
-## 💼 Experience
+## Experience
 
 <h1>
 <img src="./src/assets/illustrations/experience.svg" alt="personal-website" width="150">
@@ -46,7 +46,7 @@
 
 - <b>Indus Valley Partners</b> - Contributing in the development process of Bridge, a Partnership Accounting Software developed for a Private Equity firm, stationed at New York. Furthered my knowledge on Finance, Hedge Funds and Private Equities
 
-## 💼 Publications
+## Publications
 
 <h1>
 <img src="./src/assets/illustrations/publications.svg" alt="personal-website" width="150">
@@ -62,7 +62,7 @@
 
 - <a href="https://medium.com/netscape/component-state-vs-redux-store-1eb0c929277">Component State vs Redux Store</a>
 
-## 💼 Projects
+## Projects
 
 <h1>
 <img src="./src/assets/illustrations/projects.svg" alt="personal-website" width="150">
