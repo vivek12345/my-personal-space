@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <br>
   <a href="https://viveknayyar.in">
     <img src="./src/assets/illustrations/personal.svg" alt="personal-website" width="100">
@@ -10,25 +10,18 @@
 
 ## 📦 About me
 
-<h1 align="center">
+<h1>
 <img src="./src/assets/illustrations/social.svg" alt="personal-website" width="150">
 <br>
 
 </h1>
 
 <h3>Front-End Engineer with 4 year's of experience building products for numerous domain's like e-commerce, real estate, video-streaming and now Fin-Tech.</h3>
-
-<h1 align="center">
-<a href="https://www.dropbox.com/s/cqthva2qulr8l94/VivekNayyarResume2018.pdf?dl=1">
-<img src="./src/assets/illustrations/resume.svg" alt="personal-website" width="150">
-<br />
-Download Resume
-</h1>
-</a>
+<a href="https://www.dropbox.com/s/cqthva2qulr8l94/VivekNayyarResume2018.pdf?dl=1">Download Resume</a>
 
 ## 📦 Social Media Links
 
-<h1 align="center">
+<h1>
 <img src="./src/assets/illustrations/social_media.svg" alt="personal-website" width="150">
 </h1>
 
@@ -39,7 +32,7 @@ Download Resume
 
 ## 💼 Experience
 
-<h1 align="center">
+<h1>
 <img src="./src/assets/illustrations/experience.svg" alt="personal-website" width="150">
 </h1>
 
@@ -55,7 +48,7 @@ Download Resume
 
 ## 💼 Publications
 
-<h1 align="center">
+<h1>
 <img src="./src/assets/illustrations/publications.svg" alt="personal-website" width="150">
 </h1>
 
@@ -71,7 +64,7 @@ Download Resume
 
 ## 💼 Projects
 
-<h1 align="center">
+<h1>
 <img src="./src/assets/illustrations/projects.svg" alt="personal-website" width="150">
 </h1>
 
