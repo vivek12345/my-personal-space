@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://viveknayyar.in">
-    <img src="./src/assets/illustrations/personal.svg" alt="personal-website" width="100">
+    <img src="./src/assets/illustrations/personal.svg" alt="personal-website" width="200">
   </a>
   <br>
   Vivek Nayyar Portfolio
