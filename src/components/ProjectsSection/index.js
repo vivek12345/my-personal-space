@@ -1,11 +1,13 @@
-import React from 'react'
-import Section from '../Section'
-import ExperienceUnit from '../ExperienceUnit'
+import React from "react";
+import Section from "../Section";
+import ExperienceUnit from "../ExperienceUnit";
 
-import logiqidDesign from '../../assets/images/projects/logiqids.png'
-import reactExpress from '../../assets/images/projects/react-express.png'
-import petZoned from '../../assets/images/projects/petzoned.jpg'
-import reactNative from '../../assets/images/projects/reactNative.jpeg'
+import logiqidDesign from "../../assets/images/projects/logiqids.png";
+import reactExpress from "../../assets/images/projects/react-express.png";
+import petZoned from "../../assets/images/projects/petzoned.jpg";
+import reactNative from "../../assets/images/projects/reactNative.jpeg";
+import hooksGuide from "../../assets/images/projects/hooks.png";
+import reactPolling from "../../assets/images/projects/react-polling.png";
 
 class ProjectsSection extends React.Component {
   render() {
@@ -20,6 +22,22 @@ class ProjectsSection extends React.Component {
             timeperiod="2017"
             subtitle="LogIQids, started by IIT-IIM graduates, is an innovative web-based learning tool, to develop Logical Reasoning in kids at a young age. 
             Built with Node, React 16, Redux and Styled-Components"
+          />
+          <ExperienceUnit
+            logo={hooksGuide}
+            colour="#FFFFFF"
+            title="Collection of react hooks curated by the community"
+            link="http://hooks.guide"
+            timeperiod="2018"
+            subtitle="Collection of react hooks curated by the community"
+          />
+          <ExperienceUnit
+            logo={reactPolling}
+            colour="#FFFFFF"
+            title="🔔 Polling an api made easy with react-polling"
+            link="https://github.com/vivek12345/react-polling"
+            timeperiod="2018"
+            subtitle="Easy to use polling service built with react that follows the render props pattern."
           />
           <ExperienceUnit
             logo={reactExpress}
@@ -47,8 +65,8 @@ class ProjectsSection extends React.Component {
           />
         </div>
       </Section>
-    )
+    );
   }
 }
 
-export default ProjectsSection
+export default ProjectsSection;
