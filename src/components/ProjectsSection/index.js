@@ -8,6 +8,7 @@ import petZoned from "../../assets/images/projects/petzoned.jpg";
 import reactNative from "../../assets/images/projects/reactNative.jpeg";
 import hooksGuide from "../../assets/images/projects/hooks.png";
 import reactPolling from "../../assets/images/projects/react-polling.png";
+import asyncAwaitCodemod from "../../assets/images/projects/async-await-codemod.png";
 
 class ProjectsSection extends React.Component {
   render() {
@@ -38,6 +39,14 @@ class ProjectsSection extends React.Component {
             link="https://github.com/vivek12345/react-polling"
             timeperiod="2018"
             subtitle="Easy to use polling service built with react that follows the render props pattern."
+          />
+          <ExperienceUnit
+            logo={asyncAwaitCodemod}
+            colour="#FFFFFF"
+            title="Async await codemod"
+            link="https://github.com/vivek12345/async-await-codemod"
+            timeperiod="2019"
+            subtitle="Codemod to add try catch statements over async await if not already"
           />
           <ExperienceUnit
             logo={reactExpress}

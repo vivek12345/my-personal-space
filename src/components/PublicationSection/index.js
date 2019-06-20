@@ -1,18 +1,27 @@
-import React from 'react'
-import Section from '../Section'
-import ExperienceUnit from '../ExperienceUnit'
+import React from "react";
+import Section from "../Section";
+import ExperienceUnit from "../ExperienceUnit";
 
-import whyImportReact from '../../assets/images/publications/whyimportreact.jpeg'
-import customHeader from '../../assets/images/publications/customHeader.jpeg'
-import bundleBuddy from '../../assets/images/publications/bundleBuddy.png'
-import errorBoundaries from '../../assets/images/publications/errorBoundaries.png'
-import componentReduxStore from '../../assets/images/publications/componentReduxStore.png'
+import whyImportReact from "../../assets/images/publications/whyimportreact.jpeg";
+import customHeader from "../../assets/images/publications/customHeader.jpeg";
+import bundleBuddy from "../../assets/images/publications/bundleBuddy.png";
+import errorBoundaries from "../../assets/images/publications/errorBoundaries.png";
+import componentReduxStore from "../../assets/images/publications/componentReduxStore.png";
+import reactSuspenseAndLazy from "../../assets/images/publications/reactSuspenseAndLazy.jpeg";
 
 class PublicationSection extends React.Component {
   render() {
     return (
       <Section title="Publications">
         <div className="row">
+          <ExperienceUnit
+            logo={reactSuspenseAndLazy}
+            colour="#FFFFFF"
+            title="Magic of React Suspense with concurrent react and React.lazy API"
+            link="https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1"
+            timeperiod="2019"
+            subtitle="An article to help understand the new React suspense feature, concurrent react and react lazy api"
+          />
           <ExperienceUnit
             logo={whyImportReact}
             colour="#FFFFFF"
@@ -56,8 +65,8 @@ class PublicationSection extends React.Component {
           />
         </div>
       </Section>
-    )
+    );
   }
 }
 
-export default PublicationSection
+export default PublicationSection;

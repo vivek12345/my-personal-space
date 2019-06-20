@@ -11,7 +11,8 @@
 ## About me
 
 <h1>
-<img src="./src/assets/illustrations/social.svg" alt="personal-website" width="150">
+<img src="./src/assets/illustrations/social.svg" alt="personal-website" width="150" />
+<span>About me</span>
 <br>
 
 </h1>
