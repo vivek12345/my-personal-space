@@ -2,6 +2,7 @@ import React from 'react'
 import Section from '../Section'
 import ExperienceUnit from '../ExperienceUnit'
 
+import zalandoLogo from '../../assets/images/experience/zalando.png'
 import trustingSocialLogo from '../../assets/images/experience/trustingSocial.jpeg'
 import hotstarLogo from '../../assets/images/experience/Hotstar.svg'
 import craftsvillaLogo from '../../assets/images/experience/craftsvilla.png'
@@ -15,6 +16,15 @@ class ExperienceSection extends React.Component {
     return (
       <Section title="Experience">
         <div className="row">
+          <ExperienceUnit
+            logo={zalandoLogo}
+            colour='#fff'
+            title='Zalando'
+            link='https://en.zalando.de'
+            timeperiod='2019 - Present'
+            subtitle='Working as a senior software engineer building a price steering ui using React and state machine. 
+            Also working on creating a component library using emotion and styled-system'
+          />  
           <ExperienceUnit
             logo={trustingSocialLogo}
             colour='#fff'

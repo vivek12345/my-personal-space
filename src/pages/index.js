@@ -18,8 +18,7 @@ const IndexPage = () => (
 
       <h3 className="bold">
         Front-End Engineer with 5 years' of experience building products for
-        numerous domains like e-commerce, real estate, video-streaming and now
-        Fin-Tech.
+        numerous domains like real estate, video-streaming, Fin-Tech and now e-commerce.
       </h3>
 
       <ExperienceSection />
