@@ -17,8 +17,8 @@ const IndexPage = () => (
       </h5>
 
       <h3 className="bold">
-        Front-End Engineer with 5 years' of experience building products for
-        numerous domains like real estate, video-streaming, Fin-Tech and now e-commerce.
+        Engineering Manager with 8 years' of experience building products for
+        numerous domains like real estate, video-streaming, Fin-Tech, e-commerce and now Insurance Tech.
       </h3>
 
       <ExperienceSection />

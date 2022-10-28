@@ -8,6 +8,7 @@ import hotstarLogo from '../../assets/images/experience/Hotstar.svg'
 import craftsvillaLogo from '../../assets/images/experience/craftsvilla.png'
 import housingLogo from '../../assets/images/experience/housing.png'
 import ivpLogo from '../../assets/images/experience/ivp.jpg'
+import qoalaLogo from '../../assets/images/experience/qoala.png'
 
 
 
@@ -16,12 +17,20 @@ class ExperienceSection extends React.Component {
     return (
       <Section title="Experience">
         <div className="row">
+        <ExperienceUnit
+            logo={qoalaLogo}
+            colour='#fff'
+            title='Zalando'
+            link='https://qoala.my/my-en'
+            timeperiod='2021 - Present'
+            subtitle='Working as an Engineering manager with South-east asia"s largest Insurance Tech. Building a team for the B2C app. Hiring, mentoring and helping drive GWP for the company.'
+          />  
           <ExperienceUnit
             logo={zalandoLogo}
             colour='#fff'
             title='Zalando'
             link='https://en.zalando.de'
-            timeperiod='2019 - Present'
+            timeperiod='2019 - 2021'
             subtitle='Working as a senior software engineer building a price steering ui using React and state machine. 
             Also working on creating a component library using emotion and styled-system'
           />  

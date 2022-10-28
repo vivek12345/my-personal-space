@@ -9,7 +9,7 @@ class About extends Component {
         <div className="image" />
         <div className="bio">
           <p>👋 My name is Vivek Nayyar</p>
-          <p>💻 I work as a Senior Software Engineer with Zalando</p>
+          <p>💻 I work as an Engineering Manager with Qoala</p>
           <p>📢 Follow me @viveknayyar09</p>
           <p>
             📝{" "}
